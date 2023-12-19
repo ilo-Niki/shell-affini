@@ -12,9 +12,9 @@ affini() (
   COLORS_FAINT='\e[2m'
   COLORS_RESET='\e[0m'
 
-  DEF_WORDS_LITTLE="floret"
+  DEF_WORDS_LITTLE="floret/pet/flower"
   DEF_WORDS_PRONOUNS="her"
-  DEF_WORDS_ROLES="your affini/your owner"
+  DEF_WORDS_ROLES="mistress/your affini/your owner"
   DEF_AFFINI_COLOR="${COLORS_GREEN}"
   DEF_ONLY_NEGATIVE="false"
 
@@ -38,7 +38,12 @@ AFFINIS_ROLE knows you're trying your best~ 💚
 AFFINIS_ROLE loves you, and is here to support you~ 💚
 AFFINIS_ROLE still loves you no matter what~ 💚
 You're doing your best, and that's all that matters to AFFINIS_ROLE~ 💚
-AFFINIS_ROLE is always here to encourage you~ 💚"
+AFFINIS_ROLE is always here to encourage you~ 💚
+AFFINIS_ROLE will give you headpats when you figure this out, little AFFECTIONATE_TERM~ 💚
+Try again, my beloved AFFECTIONATE_TERM.~ 💚
+AFFINIS_ROLE will give you some Class-A snuggle time when you work through this~ 💚
+AFFINIS_ROLE is here to help! You can try again from the comfort of AFFINIS_PRONOUN vines~ 💚
+AFFINIS_ROLE is here to let you listen to AFFINIS_PRONOUN biorhythms, so you can get through it~ 💚"
 
   POSITIVE_RESPONSES="*pets your head*
 awe, what a good AFFECTIONATE_TERM~\nAFFINIS_ROLE knew you could do it~ 💚
@@ -52,7 +57,9 @@ AFFINIS_ROLE loves seeing AFFINIS_PRONOUN little AFFECTIONATE_TERM succeed~ 💚
 AFFINIS_ROLE thinks AFFINIS_PRONOUN little AFFECTIONATE_TERM earned a big hug~ 💚
 that's a good AFFECTIONATE_TERM~ 💚
 you did an amazing job, my dear~ 💚
-you're such a smart cookie~ 💚"
+you're such a smart cookie~ 💚
+AFFINIS_ROLE should give you some Class-E's later~ 💚
+You're such a wonderful and sweet little AFFECTIONATE_TERM~ 💚"
 
   # allow for overriding of default words (IF ANY SET)
 

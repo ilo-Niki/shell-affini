@@ -44,14 +44,14 @@ export SHELL_AFFINIS_LITTLE="floret/sophont"
 $ affini ls
 README.md  shell-affini.sh
 awe, what a good floret~
-your affini knew you could do it~ ❤️
+your affini knew you could do it~ 💚
 $ affini ls
 README.md  shell-affini.sh
 good sophont~
-your owner's so proud of you~ ❤️
+your owner's so proud of you~ 💚
 $ affini ls
 README.md  shell-affini.sh
-your affini thinks her little floret earned a big hug~ ❤️
+your affini thinks her little floret earned a big hug~ 💚
 ```
 
 ## Usage
@@ -60,10 +60,10 @@ To use the `affini` function, simply pass a command as an argument and `affini` 
 
 ```sh
 affini ls
-# Output: Good floret! your affini's so proud of you! ❤️
+# Output: Good floret! your affini's so proud of you! 💚
 
 affini this-command-does-not-exist
-# Output: Just a little further, sweetie~ ❤️
+# Output: Just a little further, sweetie~ 💚
 ```
 
 ## Example
@@ -77,5 +77,5 @@ export SHELL_AFFINIS_PRONOUNS="them"
 affini ls
 
 # Output:
-# That's a good kiddo~ ❤️
+# That's a good kiddo~ 💚
 ```

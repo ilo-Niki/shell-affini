@@ -1,6 +1,6 @@
-# sudofox/shell-mommy
+# ilo-Niki/shell-affini
 
-Inspired by [Gankra/cargo-mommy](https://github.com/Gankra/cargo-mommy)
+Inspired by [Gankra/cargo-mommy](https://github.com/Gankra/cargo-mommy), [Sudofox/shell-mommy](https://github.com/sudofox/shell-mommy), and [Human Domestication Guide](https://humandomestication.guide/)
 
 This is a shell script that provides a `mommy` function which emulates a nurturing and supportive figure. The `mommy` function can be used to offer praise and encouraging responses to a user's actions, depending on the exit status of the command that is passed to it.
 

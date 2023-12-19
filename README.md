@@ -31,8 +31,7 @@ The `affini` function has several customizable options that can be set using env
 - `SHELL_AFFINIS_ROLES`: Sets the role that `affini` will have. The default value is "your affini/your owner".
 - `SHELL_AFFINIS_COLOR`: Sets the color of the text output by `affini`. The default value is a green color.
 - `SHELL_AFFINIS_ONLY_NEGATIVE`: If set to `true`, `affini` will provide encouragement (on non-zero exit status) but not praise. This will keep clutter down if you intend to use `affini` as a `PROMPT_COMMAND`.
-- `SHELL_AFFINIS_NEGATIVE_RESPONSES`/`SHELL_AFFINIS_POSITIVE_RESPONSES`: Sets the possible responses that `affini` will use. This should be in the form of a bash array and will override the default responses. Want Samuel L. Jackson to chastise or compliment you? [Now you can!](https://github.com/sudofox/shell-mommy/issues/5#issuecomment-1381029744)
-
+- `SHELL_AFFINIS_NEGATIVE_RESPONSES`/`SHELL_AFFINIS_POSITIVE_RESPONSES`: Sets the possible responses that `affini` will use. This should be in the form of a bash array and will override the default responses.
 To add multiple possible values, separate them with a forward slash, for example:
 
 ```sh

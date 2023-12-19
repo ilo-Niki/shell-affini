@@ -66,12 +66,12 @@ affini this-command-does-not-exist
 
 ```
 # Set custom affectionate term and pronouns
-export SHELL_AFFINIS_LITTLE="kiddo"
+export SHELL_AFFINIS_LITTLE="girl"
 export SHELL_AFFINIS_PRONOUNS="them"
 
 # Use the affini function to run a command
 affini ls
 
 # Output:
-# That's a good kiddo~ 💚
+# That's a good girl~ 💚
 ```
